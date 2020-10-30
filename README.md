@@ -1,5 +1,5 @@
 # DJACM_APP
-It is an application for ACM(Association Of Computing Machinery). It contains information about Alumni settled in good companies in Q&amp;A format, option for asking questions, event notification etc.
+An application for ACM(Association Of Computing Machinery). A platofrm to connect DJites with their alumni. 
 
 ![SS1](/QA.jpeg)
 ![SS2](/Dept.jpeg)
